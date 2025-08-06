@@ -1,0 +1,13 @@
+student1 = {"name": "sama", "age": 17, "grades": 98}
+student2 = {"name": "salsaboly", "age":17, "grades": 88}
+student3 = {"name": "roty", "age":17, "grades": 87}
+print(student1.items())
+print(student2.items())
+print(student3.items())
+
+sama = {"name": "semo", "number": "01153592916"}
+r = { "name": "roty", "number": "01023456345"}
+sa = {"name": "salsabil", "number": "01265780205"}
+print(sama.values())
+
+          
